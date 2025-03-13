@@ -3,9 +3,51 @@ Destaque em Texto
 <i>Itálico</i>
 <em>Itálico semântico</em>
 
-
 <b>Negrito</b>
 <strong>Negrito semântico</strong>
+
+<mark>Destaque especial</mark>
+
+Dentro das tags de listas, só podemos ter tags de listas, como <ul></ul> <ol></ol>
+Listas não ordenadas
+<ul>
+
+    <li> ... </li>
+    <li> ... </li>
+    <li> ... </li>
+
+</ul>
+
+
+Listas ordenadas
+
+<ol>
+
+    <li> ... </li>
+    <li> ... </li>
+    <li> ... </li>
+
+</ol>
+
+
+tag de link
+<a>link</a>
+  
+
+
+Atributos
+
+<tag atributo="valor"> texto aqui </tag
+<p> Saiba mais sobre <a href="https://www.estudos.com.br">Link de estudos</a> visitanto nosso blog</p>
+     
+
+Tags de quebra de linha:
+
+<br> Quebra de linha sem nenhum elemento visual a mostra
+<hr> Quebra a linha, porém, coloca uma linha horizontal 
+
+
+
 
 
 
