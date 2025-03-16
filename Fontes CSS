@@ -1,0 +1,18 @@
+<!--FONTS
+
+font-family = Vai formatar a familia da fonte
+fontt-size = Vai mudar o tamnho  fa fonte
+font-style = Quando tenho italico ou não
+font-weight = Peso da fonte, se é negrito ou não
+
+-->
+
+
+<!-- TEXT
+
+text-align = direita, esquerda ou  centralizado, justificado
+text-decoration = coloca anderline ou um risco em cima do texto
+text-indent = serve para definir uma indentação em tags de paragrafo 
+text-transform = permir colocar um texto em maisculo ou minusculo
+
+-->
